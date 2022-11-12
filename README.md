@@ -1,4 +1,5 @@
 # Código de Barras - Python
+## Feito com base no Canal do YouTube | Hashtag Programação
 ## Exemplo: Lista de produtos de Informática Hardware
 
 Instalação de bibliotecas: <br>
